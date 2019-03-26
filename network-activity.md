@@ -1,4 +1,4 @@
-Network activity = searches for network exfil and covert channels
+Network activity - searches for network exfil and covert channels
 
 | Description                             |
 |-----------------------------------------|
