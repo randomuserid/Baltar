@@ -1,0 +1,18 @@
+Printing - searches for exfil via printing
+
+| Printing | Anomalous printing process       |
+| Printing | Listed file extension print      |
+| Printing | Local printer usage              |
+| Printing | Printing a file from a UNC       |
+| Printing | Printing during off hours        |
+| Printing | Printing from a Browser          |
+| Printing | Printing from a database client  |
+| Printing | Printing from a sensitive UNC    |
+| Printing | Printing on the VPN              |
+| Printing | Printing to a file               |
+| Printing | Printing to a PDF from a browser |
+| Printing | Unauthorized printer access      |
+| Printing | Unauthorized printer addition    |
+| Printing | Unauthorized printing attempt    |
+| Printing | Anomalous file type print        |
+| Printing | Printing from an RDP Session     |

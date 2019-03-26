@@ -1,0 +1,72 @@
+File activity searches. These can find exploratory, collection and preparation for exfil by a rogue insider.
+
+| File Activity | Anomalous file events by a database client
+| File Activity | Anomalous file events by an email client                  |
+| File Activity | Anomalous file renames                                    |
+| File Activity | Anomalous file writes by a browser                        |
+| File Activity | Anomalous file writes by a database client                |
+| File Activity | Anomalous file writes by an email client                  |
+| File Activity | anomalous local clone access                              |
+| File Activity | Anomalous Network File Transfer                           |
+| File Activity | Anomalous PDF file writes                                 |
+| File Activity | Anomalous source code access - extensions c, cpp, h, java |
+| File Activity | Anomalous source code copies - extensions c, cpp, h, java |
+| File Activity | Anomalous UNC connections                                 |
+| File Activity | Anomalous UNC folder path activity                        |
+| File Activity | Anomalous UNC reads                                       |
+| File Activity | Anomalous zip file activity                               |
+| File Activity | Browser cache file copies                                 |
+| File Activity | Browser cache file reads                                  |
+| File Activity | Compression of source code files                          |
+| File Activity | Copying in UNC Paths                                      |
+| File Activity | Copying of listed file extensions                         |
+| File Activity | Copying of listed file names                              |
+| File Activity | Device driver file activity                               |
+| File Activity | Document file read by a browser                           |
+| File Activity | Document file read by a chat client                       |
+| File Activity | Document file read by an FTP client                       |
+| File Activity | Document file read by an SSH client                       |
+| File Activity | Document file read by anomalous email client              |
+| File Activity | Document file read by anomalous process                   |
+| File Activity | Document file type / process mismatch                     |
+| File Activity | Executable file activity on removable media               |
+| File Activity | Executable file write in C:\ directory                    |
+| File Activity | Executable file write in C:\Program Files                 |
+| File Activity | Executable file write in C:\Windows\                      |
+| File Activity | Executable file write in Recycle Bin                      |
+| File Activity | Executable file write in Temp directory                   |
+| File Activity | Executable file write in UNC path                         |
+| File Activity | Executable file writes and renames by a browser           |
+| File Activity | Executable file writes and renames by a chat client       |
+| File Activity | Executable file writes and renames by a PDF reader        |
+| File Activity | Executable file writes and renames by a zip utility       |
+| File Activity | Executable file writes and renames by an email client     |
+| File Activity | Executable file writes and renames by an FTP client       |
+| File Activity | File Copy activity on  Sensitive File Types               |
+| File Activity | File Copy activity on sensitive UNCs                      |
+| File Activity | File Copying Between Remote and Fixed Disks               |
+| File Activity | File Copying Between UNC path and Removable Drives        |
+| File Activity | File Deletes in Senstive UNCs                             |
+| File Activity | File Renaming in Sensitive UNCs                           |
+| File Activity | File Renaming of Sensitive File Types                     |
+| File Activity | File writes by a terminal emulator                        |
+| File Activity | File writes to a system path                              |
+| File Activity | File writes to c:\Program Files                           |
+| File Activity | Listed file type emailed to outside user                  |
+| File Activity | Modification of the Ntoskrnl.exe and NTLDR files          |
+| File Activity | Network File Transfer From a File Share                   |
+| File Activity | Office document file copies by Explorer                   |
+| File Activity | Office document file reads by non-Office app              |
+| File Activity | Reads of sensitive keys or secret files                   |
+| File Activity | Sensitive data emailed to outside user                    |
+| File Activity | UNC activity during off hours                             |
+| File Activity | UNC activity with group / UNC path mismatch               |
+| File Activity | UNC activity with workstation / username mismatch         |
+| File Activity | UNC file read by a browser                                |
+| File Activity | UNC file read by a compression utility                    |
+| File Activity | UNC file read by an email client                          |
+| File Activity | UNC file read by an FTP client                            |
+| File Activity | UNC file read by an SCP client                            |
+| File Activity | zip / rar rile creation in UNC path                       |
+| File Activity | Anomalous change permissions / take ownership events      |
+| File Activity | Anomalous file events by a browser                        |
