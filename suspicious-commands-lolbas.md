@@ -1,4 +1,4 @@
-LOLBAS (Living off the Land Binaries and Scripts) are native OS components that can be used for execution, privilege elevation, credential theft, and exfiltration.
+LOLBAS (Living off the Land Binaries and Scripts) are native OS components that can be used for execution, privilege elevation, credential theft, and exfiltration. For more information, see the official project site at: https://lolbas-project.github.io/
 
 
 
