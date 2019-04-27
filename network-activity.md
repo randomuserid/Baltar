@@ -1,36 +1,36 @@
-Network activity - searches for network exfil and covert channels
+Network activity - searches for exploration, collection and exfiltration activity by insider threat actors.
 
-| Description                             |
-|-----------------------------------------|
-| Anomalous connections by a firewall     |
-| Anomalous connections by a router       |
-| Anomalous connections by an encryptor   |
-| Anomalous database connections          |
-| Anomalous HTTP activity                 |
-| Anomalous ICMP activity                 |
-| Anomalous Network File Transfer         |
-| Anomalous RDP activity                  |
-| Anomalous VPN activity                  |
-| Blacklisted CIFS server activity        |
-| Chat activity with a remote chat server |
-| CIFS activity outbound                  |
-| Connection attempts from high to low    |
-| Connection attempts out of an enclave   |
-| Darknet connections                     |
-| Direct database connection attempts     |
-| FTP to remote destination               |
-| Github activity                         |
-| Honeypot access                         |
-| Network activity during off hours       |
-| Proxy bypass                            |
-| RDP outbound                            |
-| Remote access to a network device       |
-| SSH to remote destination               |
-| Suspicious CIDR activity                |
-| Suspicious Port activity                |
-| Unauthorized CIFS server activity       |
-| Unauthorized database server activity   |
-| Unauthorized database server activity   |
-| Unauthorized internet path              |
-| Unauthorized web server activity        |
-| Unauthorized WiFi use                   |
+| Data Types         | Description                             |
+|--------------------|-----------------------------------------|
+| Network            | Anomalous connections by a firewall     |
+| Network            | Anomalous connections by a router       |
+| Network            | Anomalous connections by an encryptor   |
+| Endpoint / network | Anomalous database connections          |
+| Endpoint / network | Anomalous HTTP activity                 |
+| Endpoint / network | Anomalous ICMP activity                 |
+| Endpoint / network | Anomalous Network File Transfer         |
+| Endpoint / network | Anomalous RDP activity                  |
+| Endpoint / network | Anomalous VPN activity                  |
+| Endpoint / network | Blacklisted CIFS server activity        |
+| Endpoint / network | Chat activity with a remote chat server |
+| Endpoint / network | CIFS activity outbound                  |
+| Endpoint / network | Connection attempts from high to low    |
+| Endpoint / network | Connection attempts out of an enclave   |
+| Endpoint / network | Darknet connections                     |
+| Endpoint / network | Direct database connection attempts     |
+| Endpoint / network | FTP to remote destination               |
+| Endpoint / network | Github activity                         |
+| Endpoint / network | Honeypot access                         |
+| Endpoint / network | Network activity during off hours       |
+| Endpoint / network | Proxy bypass                            |
+| Endpoint / network | RDP outbound                            |
+| Endpoint / network | Remote access to a network device       |
+| Endpoint / network | SSH to remote destination               |
+| Endpoint / network | Suspicious CIDR activity                |
+| Endpoint / network | Suspicious Port activity                |
+| Endpoint / network | Unauthorized CIFS server activity       |
+| Endpoint / network | Unauthorized database server activity   |
+| Endpoint / network | Unauthorized database server activity   |
+| Endpoint / network | Unauthorized internet path              |
+| Endpoint / network | Unauthorized web server activity        |
+| Endpoint / network | Unauthorized WiFi use                   |
